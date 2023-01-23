@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="center" alt="Coding" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif">
 <h1 align="center">Hi 👋, I'm Dimitar Neykov</h1>
 <h3 align="center">C# Developer from Bulgaria</h3>
 
