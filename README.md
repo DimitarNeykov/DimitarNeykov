@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitarneykov&color=blue&style=flat" alt="" /> </p>
 <br>
 ## 💫 About Me:
+<br>
 🔭 I’m currently working on: New .NET 7 MAUI Project<br>💬 How to reach me: dimitarneikov@gmail.com<br>👯 I’m working for eDynamix Bulgaria<br>⚡ Helped interns by teaching them on web basics
 
 
