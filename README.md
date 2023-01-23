@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitar Neykov</h1>
 <h3 align="center">C# Developer from Bulgaria</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitarneykov&color=blue&style=flat" alt="" /> </p>
+
 # 💫 About Me:
 ## 💻 Tech ttt:
 <br>
@@ -26,3 +26,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DimitarNeykov&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitarneykov&color=blue&style=flat" alt="" /> </p>
