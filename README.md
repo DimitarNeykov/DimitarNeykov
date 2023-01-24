@@ -21,9 +21,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DimitarNeykov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=DimitarNeykov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DimitarNeykov&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarNeykov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DimitarNeykov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DimitarNeykov&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
