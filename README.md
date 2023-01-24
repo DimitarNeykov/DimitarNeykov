@@ -26,5 +26,4 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DimitarNeykov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-  
 ![](https://github-profile-trophy.vercel.app/?username=DimitarNeykov&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
